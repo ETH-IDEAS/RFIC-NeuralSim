@@ -1,0 +1,8 @@
+# Python >=3.11 (Zarr/numcodecs); install into a virtual environment.
+torch==2.6.0
+torchvision==0.21.0
+numpy>=1.26,<3
+tqdm
+zarr==2.18.7
+numcodecs==0.15.1
+scikit-rf==1.13.0

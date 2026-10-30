@@ -1,6 +1,6 @@
 # RFIC-NeuralSim
 
-Main training code for the 5.4M and 21M neural simulators, covering input, interstage, and output matching. The original dataset is not distributed because of commercial licensing restrictions.
+Main training code for the 5.4M and 21M neural simulators, covering input, interstage, and output matching. The original dataset is proprietary and is not publicly distributed due to commercial licensing restrictions.
 
 ## Install
 
@@ -110,4 +110,4 @@ Use `NetworkType.IMN`, `OMN`, or `ISM` for input, output, or interstage matching
 }
 ```
 
-Code is released under the [MIT license](LICENSE). Dependencies retain their respective licenses. This work is a collaboration between the IDEAS Group and SRI Lab at ETH Zurich.
+Code is released under the [MIT license](LICENSE). Dependencies retain their respective licenses. This work is a collaboration between the [IDEAS Group](https://ideas.ethz.ch/) and [SRI Lab](https://www.sri.inf.ethz.ch/) at ETH Zurich.
